@@ -5,7 +5,7 @@ import io.javalin.Javalin;
 public class JavalinSingleton {
     /**
      * Assignment: retrieve the variable "first" from the path parameter and send it in the response body. Produce
-     * the response using:
+     * the response using:a
      *      ctx.result(StringVariable);
      *
      * You will not need to run app.start in this method. The test cases, or main method, will do this for you - this
